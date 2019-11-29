@@ -1,0 +1,5 @@
+﻿  Source.cpp
+m:\pid 29.11.19\consoleapplication1\source.cpp(21): warning C4018: '<': signed/unsigned mismatch
+m:\pid 29.11.19\consoleapplication1\source.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> M:\PID 29.11.19\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> M:\PID 29.11.19\Debug\ConsoleApplication1.pdb (Full PDB)
