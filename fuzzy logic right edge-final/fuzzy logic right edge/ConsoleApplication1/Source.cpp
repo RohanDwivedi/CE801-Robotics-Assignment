@@ -290,7 +290,7 @@ int main(int argc, char **argv)
 		output.create_rule_table(mem_valS1, mem_valS2);
 		out = output.crisp_out();
 		robot.setVel2(out[0],out[1]);
-		cout << sonarRange[7] << " " << sonarRange[5] << endl;
+		cout << sonarRange[7] << " " << sonarRange[6] << endl;
 		cout << out[0] << " " << out[1] << endl;
 		
 	}
