@@ -1,0 +1,3 @@
+﻿  Source.cpp
+m:\fuzzy logic right edge-final\fuzzy logic right edge\consoleapplication1\source.cpp(160): warning C4715: 'mem_func::calc_mem_val': not all control paths return a value
+LINK : fatal error LNK1168: cannot open M:\fuzzy logic right edge-final\fuzzy logic right edge\Debug\ConsoleApplication1.exe for writing
