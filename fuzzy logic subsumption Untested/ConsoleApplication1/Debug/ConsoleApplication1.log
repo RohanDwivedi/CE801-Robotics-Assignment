@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\myema\desktop\robotics assignment\fuzzy logic subsumption\consoleapplication1\wallfollower.cpp(164): warning C4715: 'FollowWallController::mem_func::calc_mem_val': not all control paths return a value
+AriaDebugVC14.lib(AriaDebugVC14.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'

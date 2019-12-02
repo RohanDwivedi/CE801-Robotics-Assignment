@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\myema\desktop\robotics assignment\fuzzy logic subsumption\consoleapplication1\wallfollower.cpp(164): warning C4715: 'FollowWallController::mem_func::calc_mem_val': not all control paths return a value
+c:\users\myema\desktop\robotics assignment\fuzzy logic subsumption\consoleapplication1\obstacleavoidance.cpp(200): warning C4715: 'OAController::mem_func::calc_mem_val': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\myema\Desktop\Robotics Assignment\fuzzy logic subsumption\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\myema\Desktop\Robotics Assignment\fuzzy logic subsumption\x64\Debug\ConsoleApplication1.pdb (Full PDB)
