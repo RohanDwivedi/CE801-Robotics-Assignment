@@ -1,4 +1,4 @@
-# CE902-Robotics-Assignment
+# CE801-Robotics-Assignment
 Robotics Assignment for CE902 class
 
 Part 1: Fuzzy logic controller for right edge wall following.\
